@@ -1,0 +1,28 @@
+
+
+المحاضرات والتلاخيص
+HTML- Lectures
+HTML
+HTML is the main markup language for describing the structure of web pages.
+
+What You Can Do with HTML
+There are lot more things you can do with HTML.
+
+You can publish documents online with text, images, lists, tables, etc.
+You can access web resources such as images, videos or other HTML document via hyperlinks.
+You can create forms to collect user inputs like name, e-mail address, comments, etc.
+
+Lecture (1) : HTML5 Introduction
+Editing HTML5
+First HTML5 Example
+HTML Headings Tag
+HTML Line Breaks Tag
+HTML Horizontal Rules Tag
+HTML Paragraphs Tag
+HTML Lecture (1) : Introduction تلخيص المحاضرة
+
+--------
+HTML LECTURE(1): تسجيل المحاضرة الأولى (فيديو)
+رابط الفيديو URL
+https://zujedujo-my.sharepoint.com/:v:/g/personal/638_zuj_edu_jo/EeKVdMLh8OZHtH7jZTu1ap0BF-5iQV-MA_2uCzcp5e8JOQ?e=uC1YCp
+
